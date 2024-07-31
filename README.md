@@ -37,7 +37,7 @@ This software module, developed as part of the euROBIN Project Nancy Coopetition
 1. Clone the repository:
     ```bash
     git clone https://github.com/GRVC-US/ParcelGraspingPoints_D435i
-    cd RealSenseBoxDetection
+    cd ParcelGraspingPoints_D435i
     ```
 
 2. Build the project:
@@ -53,7 +53,7 @@ This software module, developed as part of the euROBIN Project Nancy Coopetition
 
 To run the program, execute the following command from the `build` directory:
 ```bash
-./RealSenseBoxDetection <mode>
+./ParcelGraspingPoints_D435i <mode>
 ```
 Replace <mode> with manual or auto to select the desired mode of operation.
 
@@ -75,7 +75,7 @@ You can adjust the following parameters using the trackbars in the GUI:
 To start the program in manual mode:
 
 ```bash
-./RealSenseBoxDetection manual
+./ParcelGraspingPoints_D435i manual
 ```
 
 ### Automatic mode
@@ -84,7 +84,7 @@ In automatic mode, the parameters for HSV and minContour are loaded from the Con
 To start the program in automatic mode:
 
 ```bash
-./RealSenseBoxDetection auto
+./ParcelGraspingPoints_D435i auto
 ```
 
 ## Functions Overview
