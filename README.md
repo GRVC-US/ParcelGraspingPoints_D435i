@@ -36,7 +36,7 @@ This software module, developed as part of the euROBIN Project Nancy Coopetition
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/GRVC-Robotics-Lab/RealSenseParcelLocalization
+    git clone https://github.com/GRVC-US/ParcelGraspingPoints_D435i
     cd RealSenseBoxDetection
     ```
 
